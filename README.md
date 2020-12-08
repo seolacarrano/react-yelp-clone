@@ -1,6 +1,7 @@
 ## Project Description
 This is a Yelp clone built by React, JavaScript, and Yelp API.
-Users can search menu in any place that Yelp offers. 
+Users can search for restaurants in any place that Yelp offers.
+There're 3 search options, Best Match, Highest Rated, and Most Reviewed. Users can see different results depending on the option they choose.
 
 ## Project 
 - [Image 1](https://res.cloudinary.com/dqduwnrb1/image/upload/v1607448343/Screen_Shot_2020-12-08_at_12.24.58_PM_clsksp.png)
