@@ -8,7 +8,7 @@ class Business extends React.Component {
       return (
     <div className="Business">
         <div className="image-container">
-           <img src='https://res.cloudinary.com/dqduwnrb1/image/upload/v1607447075/jakub-kapusnak-4f4YZfDMLeU-unsplash_mhmjzm.jpg' alt=''/>
+           <img src='https://res.cloudinary.com/dqduwnrb1/image/upload/v1607633407/dino-dwayne-gantala-3m575c3wgvw-unsplash_muvmpi.jpg' alt=''/>
         </div>
         <h2>{this.props.business.name}</h2>
         <div className="Business-information">
