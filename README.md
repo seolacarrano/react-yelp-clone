@@ -4,8 +4,7 @@ Users can search for restaurants in any place that Yelp offers.
 There're 3 search options, Best Match, Highest Rated, and Most Reviewed. Users can see different results depending on the option they choose.
 
 ## Project 
-- [Image 1](https://res.cloudinary.com/dqduwnrb1/image/upload/v1607448343/Screen_Shot_2020-12-08_at_12.24.58_PM_clsksp.png)
-- [Image 2](https://res.cloudinary.com/dqduwnrb1/image/upload/v1607448342/Screen_Shot_2020-12-08_at_12.25.19_PM_kezzbx.png)
+- [Yelp Clone](https://sa-react-project.netlify.app/)
 
 
 #### MVP
